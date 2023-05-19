@@ -3605,6 +3605,10 @@ input, select, textarea {
 				padding: 0;
 			}
 
+			.button.wide {
+				min-width: 8em;
+			}
+
 		/* Main */
 
 			.main {
